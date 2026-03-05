@@ -5,5 +5,5 @@ Created on 5 mar 2026
 '''
 
 if __name__ == '__main__':
-    print("Hello PyDev! \nThe first project aided by Eclipse IDE and PyDev plugin.\n")
+    print("Hello PyDev! \nThe template project aided by Eclipse IDE and PyDev plugin.\n")
     pass
